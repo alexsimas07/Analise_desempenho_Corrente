@@ -49,7 +49,7 @@ Dessa forma, é possível antecipar ações de manutenção e garantir o melhor 
 ## 👨‍💼 Autor
 
 **Alexsander Maia Simas**  
-Pleno Cientista de Dados | Especialista em Machine Learning aplicado ao setor financeiro e de energia  
+Pleno Cientista de Dados | Especialista em Machine Learning aplicado ao setor de energia energia solar  
 [LinkedIn](https://www.linkedin.com/in/alexsander-maia-simas-371222112/) | [alexsandermaiat2@gmail.com](mailto:alexsandermaiat2@gmail.com)
 
 ---
